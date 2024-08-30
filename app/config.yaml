@@ -1,0 +1,9 @@
+connections:
+  database1:
+    url: some_url:3234
+    login: user1
+    password: password123
+  database2:
+    url: some_url:3234
+    login: user1
+    password: password123
